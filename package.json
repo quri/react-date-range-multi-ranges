@@ -31,7 +31,7 @@
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
-    "babel": "^5.8.23"
+    "babel": "^5.8.23",
     "react": "^16.0.0"
   }
 }
